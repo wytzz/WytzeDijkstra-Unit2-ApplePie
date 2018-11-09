@@ -38,12 +38,13 @@ class ViewController: UIViewController {
     @IBOutlet weak var correctWordLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
     @IBOutlet var letterButtons: [UIButton]!
+    
     @IBAction func buttonPressed(_ sender: UIButton) {
         sender.isEnabled = false
         let letterString = sender.title(for: .normal)!
         let letter = Character(letterString.lowercased())
         currentGame.playerGuessed(letter: letter)
-        updateUI()
+        updateGameState()
     }
     
     func updateGameState () {
