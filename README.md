@@ -1,4 +1,4 @@
-# WytzeDijkstra-Unit2-ApplePie
+# WytzeDijkstra Unit2 ApplePie
 
 Dit is een app die je een woord laat raden door middel van letters aan te klikken.
 Je wint wanneer je het woord raad en je verliest wanneer je 7 keer een foute letter hebt aangeklikt.
