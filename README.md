@@ -10,5 +10,4 @@ Wanneer al deze woorden zijn gebruikt gaat de app niet meer verder.
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit2-ApplePie/blob/master/doc/Schermafbeelding%202018-11-28%20om%2013.52.46.png)
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit2-ApplePie/blob/master/doc/Schermafbeelding%202018-11-28%20om%2013.52.55.png)
 ![alt text](https://github.com/wytzz/WytzeDijkstra-Unit2-ApplePie/blob/master/doc/Schermafbeelding%202018-11-28%20om%2013.53.18.png)
-![alt text](https://github.com/wytzz/WytzeDijkstra-Unit2-ApplePie/blob/master/doc/Schermafbeelding%202018-11-09%20om%2014.45.51.png)
 
